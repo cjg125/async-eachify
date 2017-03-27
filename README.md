@@ -40,3 +40,8 @@ eachify(Array, callback, options)
 #### interval.async
 > async 为 true 每次迭代的间隔时间
 
+## 高级应用
+
+[examples/middleware.js](https://github.com/cjg125/async-eachify/tree/master/examples/middleware.js)
+
+
