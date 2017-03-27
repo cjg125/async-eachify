@@ -1,0 +1,19 @@
+{
+  "env": {
+    "test": {
+      "presets": ["latest"]
+    }
+  },
+  "presets": [
+    [
+      "latest", {
+        "es2015": {
+          "modules": false
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "transform-object-assign"
+  ]
+}
