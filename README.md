@@ -1,14 +1,9 @@
 # saync-eachify
-> 一个支持异步的forEach函数
+## 简介
+  > 一个支持异步的迭代函数
 
-```js
-  eachify(['a', 'b', 'c', 'd', 'e'], function (loop, next) {
-    console.log(loop)
-    next() // 通过next 执行下一个
-  }, {
-    async: true,
-    interval: 100
-  })
+  ![image](https://github.com/cjg125/async-eachify/raw/master/preview.gif)
+
 ```
 ## 安装
 ```html
