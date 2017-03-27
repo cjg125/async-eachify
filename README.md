@@ -10,7 +10,13 @@
     interval: 100
   })
 ```
-
+## 安装
+```html
+<script src="https://unpkg.com/async-eachify"></script>
+```
+```sh
+yarn add async-eachify
+```
 ## API
 ### 语法
 ```js
