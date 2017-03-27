@@ -1,5 +1,5 @@
 /*!
- * async-eachify.js v1.1.0
+ * async-eachify.js v1.2.0
  * (c) 2017 cjg
  * Released under the MIT License.
  */

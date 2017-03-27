@@ -1,5 +1,6 @@
 # saync-eachify
 ## 简介
+
   > 一个支持异步的迭代函数
 
   ![image](https://github.com/cjg125/async-eachify/raw/master/preview.gif)
